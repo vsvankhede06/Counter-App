@@ -1,2 +1,2 @@
 # Counter-App
-Created with CodeSandbox
+Created Counter app using Javascript, React.js, HTML/CSS.
